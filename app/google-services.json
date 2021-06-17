@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64385410509",
+    "project_id": "logdem-1c79a",
+    "storage_bucket": "logdem-1c79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64385410509:android:782c3a400804d2a24bd084",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64385410509-2r1f3gau6gqf8rhqad5afcidheq8lmir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP2dItz-MGSlTn17Fg3ivZzqKNRuX4TEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64385410509-2r1f3gau6gqf8rhqad5afcidheq8lmir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
